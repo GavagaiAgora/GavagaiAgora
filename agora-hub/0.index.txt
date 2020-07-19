@@ -1,1 +1,4 @@
+agora-hub/0.index.txt
 agora-hub/contents
+agora-hub/history.txt
+agora-hub/profile
