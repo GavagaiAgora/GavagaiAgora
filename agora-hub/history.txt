@@ -7,3 +7,4 @@ agora-hub/contents/2020/07/22/2.post.json
 agora-hub/contents/2020/07/22/3.post.json
 agora-hub/contents/2020/07/22/4.post.json
 agora-hub/contents/2020/07/22/5.post.json
+agora-hub/contents/2020/07/23/1.post.json
